@@ -1,0 +1,42 @@
+h1 {
+    color:darkorchid;
+    font-family: 'Oswald', sans-serif;
+    background-color:lightskyblue;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+h2 {
+    color: #00ADB5;
+    font-family: 'Squada One', cursive;
+    font-style: italic;
+    font-weight: bolder;
+}
+li {color:green;
+    font-family: 'Rancho', cursive;
+    font-style: italic;
+    font-weight: bolder;}
+
+
+a {color:lightcoral;
+    font-style: italic;
+    font-weight: bolder;
+}
+hr {
+    height:2px;
+    border-width:0;
+    color:#E84545;
+    background-color:#E84545;
+}
+h3 {
+    color: #116D6E;
+    font-family: 'Monoton', cursive;
+}
+p {
+    font-family: 'Economica', sans-serif;
+    color: blue;
+    font-style: italic;
+}
+
+
+
